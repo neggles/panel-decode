@@ -1,0 +1,36 @@
+{
+    "files.associations": {
+        ".clang-format": "yaml",
+        ".config": "shellscript",
+        ".gitignore": "ignore",
+        "*.config": "makefile",
+        "*.cwaps1": "powershell",
+        "*.dts": "dts",
+        "*.dtsi": "dts",
+        "*.html": "html",
+        "*.scc": "makefile",
+        "*.txt": "plaintext",
+        "ssh_config": "ssh_config",
+        ".oldconfig": "makefile",
+        ".config*.orig": "makefile",
+        ".config.*": "makefile",
+        "*.logcat": "logcat",
+        "*.build": "meson",
+        "*.ini.in": "ini",
+        "*.log": "log",
+        "CMakeLists.txt": "cmake",
+        "cross_*": "ini",
+        "stdio.h": "c"
+    },
+    "editor.tabSize": 4,
+    "[c]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file"
+    },
+    "[cpp]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file"
+    },
+    "dotnetAcquisitionExtension.existingDotnetPath": ["/usr/bin/dotnet", "/usr/local/bin/dotnet"],
+    "cmake.generator": "ninja"
+}
