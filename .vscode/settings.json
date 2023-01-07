@@ -32,5 +32,5 @@
         "editor.formatOnSaveMode": "file"
     },
     "dotnetAcquisitionExtension.existingDotnetPath": ["/usr/bin/dotnet", "/usr/local/bin/dotnet"],
-    "cmake.generator": "ninja"
+    "cmake.generator": "Ninja"
 }
